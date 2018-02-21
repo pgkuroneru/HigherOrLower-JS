@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+p {
+  font-size: 1.7rem;
+}
+
+#score-text {
+  font-size: 2.0rem;
+}
+
+#num {
+  font-size: 50px
+}
+
+#end {
+  color: red;
+}
+
+.main-text {
+  color: #666666;
+}
+
+.btn {
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}
+
+.btn-higher {
+  background: #ff99ff;
+}
+
+.btn-higher:hover {
+  background: #ffccff;
+}
+
+.btn-lower {
+  background: skyblue;
+}
+
+.btn-lower:hover {
+  background: lightblue;
+}
